@@ -1,0 +1,16 @@
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLibTest.deps.json
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLibTest.runtimeconfig.json
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLibTest.runtimeconfig.dev.json
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLibTest.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLibTest.pdb
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.csprojResolveAssemblyReference.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.csproj.CoreCompileInputs.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.AssemblyInfoInputs.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.AssemblyInfo.cs
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\obj\Debug\netcoreapp2.0\WiskLibTest.pdb
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLib2.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLibTest\bin\Debug\netcoreapp2.0\WiskLib2.pdb

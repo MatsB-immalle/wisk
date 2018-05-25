@@ -1,0 +1,9 @@
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\bin\Debug\netcoreapp2.0\WiskLib2.deps.json
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\bin\Debug\netcoreapp2.0\WiskLib2.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\bin\Debug\netcoreapp2.0\WiskLib2.pdb
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.csprojResolveAssemblyReference.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.csproj.CoreCompileInputs.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.AssemblyInfoInputs.cache
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.AssemblyInfo.cs
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.dll
+C:\Users\mats.bos\source\repos\wisk\WiskLib2\obj\Debug\netcoreapp2.0\WiskLib2.pdb
